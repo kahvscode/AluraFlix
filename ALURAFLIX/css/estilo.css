@@ -1,0 +1,26 @@
+body {
+    color: rgb(196, 196, 196);
+    background-color: rgb(8, 8, 8);
+}
+
+h1 {
+    color: rgb(255, 7, 7);
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: 383px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.container-fluid.bg-info.text-center.my-4 {
+    color: black;
+}
